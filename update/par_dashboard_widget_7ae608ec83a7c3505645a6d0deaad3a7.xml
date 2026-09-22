@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">c48688ac83a7c3505645a6d0deaad366</canvas>
+        <component display_value="Gauge">037bd8ea3013833fd049186779528b70</component>
+        <component_props>{"configVersion":"23.0.0-ci-SNAPSHOT","minValue":0,"innerRadius":0.7,"valueLabelSize":"md","gaugeArcAngle":"180","scoreLabel":"none","showZero":false,"showLabelFirst":false,"showRangeLimit":true,"showRangeLabels":false,"showRegister":false,"registerPosition":"bottom","registerOrientation":"horizontal","legendHorizontalAlignment":"center","colorConfig":{"type":"default"},"newReporting":false,"enableAddZerosAtApi":true,"additionalGroupByConfig":[],"dataSources":[{"allowRealTime":true,"allowTotalValue":true,"indicatorType":"1","isScriptedIndicator":false,"allowMultiElementsAggregation":false,"indicatorClass":"PA_INDICATOR","aggregateType":1,"label":"NeedIt: Active Weekly","sourceType":"indicator","uuid":{"indicator":"fb0c04d883e743505645a6d0deaad3d7","breakdowns":[]},"preferredVisualizations":["18ac962264404bcc0039359d184b15f3"],"id":"aW5kaWNhdG9yZmIwYzA0ZDg4M2U3NDM1MDU2NDVhNmQwZGVhYWQzZDcxNzkwMDQ0Njk5NzUx","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"lineClamp":1,"headerTitleAlignment":"start","wrapTitle":false,"showLoadingIndicator":false,"showHeaderSeparator":false,"contextMenuActions":[],"headerTitle":"NeedIt Active Weekly","headingLevel":2,"showBorder":true,"bareBorder":false,"telemetry":null,"showDataPassthrough":false,"showAdditionalGroupBySelector":false,"allowAdditionalGroupByPerMetric":false,"metrics":[{"dataSource":"aW5kaWNhdG9yZmIwYzA0ZDg4M2U3NDM1MDU2NDVhNmQwZGVhYWQzZDcxNzkwMDQ0Njk5NzUx","id":"YVc1a2FXTmhkRzl5Wm1Jd1l6QTBaRGc0TTJVM05ETTFNRFUyTkRWaE5tUXdaR1ZoWVdRelpEY3hOemt3TURRME5qazVOelV4MTc5MDA0NDcwMzUzOQ==","aggregateIndicator":"","frequency":20,"numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":null,"filterPerMetric":[],"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":true,"showChangePercentage":true,"showTarget":true,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":true,"showSparkline":true,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"enableClickAndStay":false,"showDataTable":false,"enableCustomEmptyState":false,"componentId":"ah1b7uke","emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateHeadingLevel":3,"emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","refreshFrequency":null,"hideDevSettings":false,"configPropModifiers":{},"filterConfigurations":"@state.parFilters","showMaximumRange":false,"allowChangeDateRange":false,"showDateRangeByDefault":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"autoAggregatePeriods":false,"scoreType":null,"showChangeFrom":true,"useCurrentDateForEnd":false,"period":"M","useDataCache":false,"cacheExpirationTime":0,"showCacheTime":true,"dateFormat":"default","showRefresh":true,"showExportOptions":true,"showFilterAsSeparateSeries":false,"userInfo":"@context.session.user","colors":{}}</component_props>
+        <h>13</h>
+        <name/>
+        <required_translations>[{"comment":"","code":"PAR_DASHBOARD.c48688ac83a7c3505645a6d0deaad366.7ae608ec83a7c3505645a6d0deaad3a7","message":"NeedIt: Active Weekly"},{"comment":"","code":"PAR_DASHBOARD.c48688ac83a7c3505645a6d0deaad366.7ae608ec83a7c3505645a6d0deaad3a7","message":"NeedIt Active Weekly"},{"comment":"","code":"PAR_DASHBOARD.c48688ac83a7c3505645a6d0deaad366.7ae608ec83a7c3505645a6d0deaad3a7","message":"No data available."},{"comment":"","code":"PAR_DASHBOARD.c48688ac83a7c3505645a6d0deaad366.7ae608ec83a7c3505645a6d0deaad3a7","message":"There are no scores available for the selected criteria. Contact your admin for more info."}]</required_translations>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-22 02:39:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7ae608ec83a7c3505645a6d0deaad3a7</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>par_dashboard_widget_7ae608ec83a7c3505645a6d0deaad3a7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-22 02:41:04</sys_updated_on>
+        <visualization/>
+        <w>20</w>
+        <widget_props/>
+        <x>0</x>
+        <y>0</y>
+    </par_dashboard_widget>
+</record_update>
